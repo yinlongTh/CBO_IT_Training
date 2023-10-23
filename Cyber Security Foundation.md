@@ -108,6 +108,24 @@ Benefit of Cloud computing
 - Regulation : Depends on Industry
 
 ## Module 6: Software security lifecycle
+: Things will cost more if we don't manage the security at the early development stages.
+#### 2 Types of security testing
+1. Static : Code review
+2. Dynamics : Running the prog for testing
+
+#### Change management, ISMS and independent assurance
+
+## Module 7: Audits, intrusion detection and incident management
+: Audit to check security measures
+<pre>
+  - Internal Audit : Internal
+  - 2nd-party Audit : Carried out on suppliers
+  - 3rd-party Audit : Carried out for certification
+</pre>
+
+#### Intrusion monitoring tools
+- Detection : Passive monitoring software monitoring for known attacks.
+- Prevention : Actively look for known attacks
 
 
 
