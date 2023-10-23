@@ -57,14 +57,14 @@ CIA Traid
 - Information security manager
 - IT security practitioners
 
-## Risk and risk management
+#### Risk and risk management
 <pre>
   Asset | Threat Risk | Vulnerability
   Risk Matrix : Impact - Likelihood
   Risk appetite : amount of risk a firm is willing to take
 </pre>
 
-## 4 ways to reponse to risk
+#### 4 ways to reponse to risk
 <pre>
   1. Mitigate : Decrease the likelihood
   2. Accept
