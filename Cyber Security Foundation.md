@@ -127,6 +127,16 @@ Benefit of Cloud computing
 - Detection : Passive monitoring software monitoring for known attacks.
 - Prevention : Actively look for known attacks
 
+#### Security Information and Event Management tool (SIEM)
+: Log will always be created 
+
+#### 5 phases of incident management
+1. Plan and prepare : Developing policies and plan
+2. Detection of suspicious activity
+3. Assessment and decision
+4. Response and Assure we carry out an appropriate response to the incident
+5. Log the lesson
+
 
 
 
