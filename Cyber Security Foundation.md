@@ -46,6 +46,57 @@ CIA Traid
   - Strategic   1 - 3 years
 </pre>
 
+#### 4 Purposes of IS governance
+1. Plan that aligns with Org
+2. Calue proposition
+3. Take a risk management-based approach
+4. Be accountable for assurance performance
+
+#### Roles and Responsibilities
+- CISO
+- Information security manager
+- IT security practitioners
+
+## Risk and risk management
+<pre>
+  Asset | Threat Risk | Vulnerability
+  Risk Matrix : Impact - Likelihood
+  Risk appetite : amount of risk a firm is willing to take
+</pre>
+
+## 4 ways to reponse to risk
+<pre>
+  1. Mitigate : Decrease the likelihood
+  2. Accept
+  3. Transfer : Ex. buying insurance
+  4. Avoid : Ex. Declind high-risk person to be a customer of a bank
+</pre>
+
+## Module 4: Security controls, the Cloud and encryption
+#### Cyber security control
+<pre>
+  - Detective : Identify
+  - Preventative : Prevent before they occur
+  - Corrective : Reduce the impact
+  - Directive : Reduce the likelihood
+</pre>
+
+## Cloud computing
+<pre>
+User's responsibility on Cloud Services
+  - SaaS : Data
+  - PaaS : Data / Application
+  - IaaS : Data / Application / OS
+
+Benefit of Cloud computing
+  - Capital Expenditure -> Operation Expenditure
+  - Risk reduction
+  - Scalability
+  - Elasticity
+  - Cost
+  - Mobility and collaboration
+</pre>
+
 
 
 
