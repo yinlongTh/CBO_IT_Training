@@ -97,7 +97,17 @@ Benefit of Cloud computing
   - Mobility and collaboration
 </pre>
 
+## Module 5: Legislation, regulations and standards
+1. <strong>Policies</strong> : Briefing clear without too much detail (highest level)
+2. <strong>Internal</strong> Standards : Provide more detail about Policies
+3. <strong>Procedure</strong> : Explain how we would implement Standards
+4. <strong>Guildline</strong> (Optional)
 
+#### Regulation and Legislation
+- Legislation : Depends on Jurisdiction
+- Regulation : Depends on Industry
+
+## Module 6: Software security lifecycle
 
 
 
